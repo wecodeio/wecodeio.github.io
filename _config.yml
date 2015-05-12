@@ -9,7 +9,7 @@ twitter_username: wecodeio
 github_username:  wecodeio
 
 # Permalinks
-permalink:        /:year/:month/:title/
+permalink:        /:title/
 
 # Build settings
 markdown: kramdown
