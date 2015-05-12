@@ -18,3 +18,11 @@ authors:
     web: http://delucas.github.io
     twitter: luke_ar
     github: delucas
+
+languages:
+  english:
+    display_name: en
+    image: /images/flags/english.png
+  spanish:
+    display_name: sp
+    image: /images/flags/spanish.png
