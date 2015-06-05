@@ -15,6 +15,12 @@ permalink:        /:title/
 markdown: kramdown
 
 authors:
+  wecode:
+    name: We Code
+    display_name: Staff
+    web: http://www.wecode.io
+    twitter: wecodeio
+    github: wecodeio
   delucas:
     name: Lucas Videla
     display_name: Lucas

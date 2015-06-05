@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v1.0"
+date:  2015-06-05 10:15:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Para ser consecuentes con el espíritu de **wecode**, vamos a empezar a compartir en un resumen algunos enlaces que seleccionamos por una u otra razón. Esta es la primera edición de *Enlaces Seleccionados*... pase y sírvase :)
+
+
+Lucas recomienda...
+
+> [Contrast Ratio][delucas-pick]  
+> Una herramienta desarrollada por [Lea Verou][lea], que permite evaluar (en forma numérica y visual) qué tan efectiva es la proporción de contraste entre color de fondo y de fuente. Es muy simple de probar, y genera un enlace para compartir el "experimento" con otros colegas.
+
+Joaquín recomienda...
+
+> [UI Faces][wacko-pick]  
+> Es una herramienta para generar avatars de prueba para usar en un mockup.
+
+Nico recomienda...
+
+> [Random KeyGen][ceneon-pick]  
+> Fácil para tener passwords o claves sin tener que completar nada. Te copiás cualquier cosa de ahí y listo.
+
+Santi recomienda...
+
+> [PlainJS][santi-pick]  
+> Catálogo de librerías y recursos Javascript que solo usan Vanilla.js
+
+Alicia recomienda...
+
+> [Application Shortcut Mapper][alice-pick]  
+> Una aplicación desarrollada por [Waldo Bronchart][waldo], que te permite visualizar los atajos de teclado de diferentes programas en función de la versión, el sistema operativo y el idioma que tengas configurado.
+> De momento están cargados los shorcuts de Adobe After Effects, Photoshop, Ilustrator, Lightroom, Autodesk 3dsMax, Maya, Blender, Jetbrains RubyMine, Sublime Text y Unity 3D pero el código está subido a github y abierto para que podamos colaborar subiendo los atajos que queramos.
+
+Hernán recomienda...
+
+> [dragula.js][chila-pick]  
+> dragula.js es una biblioteca simple en JavaScript que proporciona la funcionalidad de arrastrar y soltar los elementos DOM.
+
+Willian recomienda...
+
+> [Color Thief][will-pick]  
+> Una herramienta interesante que permite obtener la paleta cromática de una imagen fácilmente con el fin de implementarlos en un sistema y así conservar los colores representativos de una empresa/marca.
+
+Gastón recomienda...
+
+> [jQuery Lazyload][nan-pick]  
+> Herramienta de [Mika Tuupola][mika] para mejorar la performance de páginas largas con muchas imágenes. Bueno para las típicas páginas OnePage o SinglePage que se usan mucho ahora porque se adaptan bien a la navegación móvil. La onda es que en vez de pedir todas las imagenes al servidor en carga de página, se van pidiendo a medida que entran en el viewport o a tantos pixeles antes de entrar al viewport. 
+Algo que se podría probar que yo no probé con esta librería es si funciona con iframes, entonces por ejemplo, cargamos un mapa de google, o un widget de una red social cuando el usuario se aproxima a la sección :smirk_cat:
+
+Agos recomienda...
+
+> [WakaTime][agos-pick]  
+> WakaTime es una herramienta que permite llevar un registro de la cantidad de tiempo que se pasa programando. Instalando el plugin en tu editor de codigo de preferencia WakaTime registra el tiempo de programacion por proyecto y por lenguaje. La disponibilidad de plugins para los editores es amplia.  Al final de la semana WakaTime envia un resumen por mail sobre el desempeño en cada proyecto. Se puede integrar con Github y así saber cuanto tiempo se invirtió en cada commit.
+
+Manu recomienda...
+
+> [Deployer][manu-pick]  
+> El depoyer que PHP se merecía: rapido, simple, robusto y con una curva de aprendizaje muy reducida.
+
+Daniel recomienda...
+
+> [PHPUnit][daniel-pick]  
+> PHPUnit es el framework por excelencia para TDD (hay otros, no tan buenos según mi entender), está bien documentado y además es de la familia xUnit, con lo cual si ya conoces algo de esta técnica, no te costará nada implementarla en PHP. Y siempre recuerden: _"Un buen testing conlleva a una gran libertad"_.
+
+[delucas-pick]: http://leaverou.github.io/contrast-ratio
+[wacko-pick]: http://uifaces.com/
+[ceneon-pick]: http://randomkeygen.com/
+[santi-pick]: http://plainjs.com/
+[alice-pick]: http://waldobronchart.github.io/ShortcutMapper
+[chila-pick]: http://bevacqua.github.io/dragula/
+[will-pick]: http://lokeshdhakar.com/projects/color-thief/
+[nan-pick]: https://github.com/tuupola/jquery_lazyload
+[agos-pick]: https://wakatime.com/
+[manu-pick]: http://deployer.org/
+[daniel-pick]: https://phpunit.de
+
+[lea]: http://www.leaverou.com/
+[waldo]: http://www.waldobronchart.be/
+[mika]: http://www.appelsiini.net/
