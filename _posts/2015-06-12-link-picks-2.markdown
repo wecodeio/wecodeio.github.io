@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v2.0"
+date:  2015-06-12 12:45:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Segunda versión, segunda. Pruebe, y si le gusta, vuelva ;)
+
+
+Gastón recomienda...
+
+> [Backup Ninja][nan-pick]  
+> Herramienta para Linux que permite configurar de manera sencilla backups de distintos tipos (bkps de DB's, bkps incrementales con rdiff, bkps encriptados con duplicity, etc) , ya sea dentro del sistema o de manera remota. 
+
+Joaquín recomienda...
+
+> [Facebook PathPicker][wacko-pick]  
+> Es LA herramienta para todos aquellos que les gusta ahorrarse preciosos keystrokes. 
+La idea es simple: tomamos la salida de un comando y lo pasamos a fpp (ej: `git status | fpp`), fpp reconoce los path y nos permite seleccionar los archivos que queremos, para luego podemos abrirlos en un editor (acción por default) o ejecutar un comando, tomando esta lista de archivos como parámetro. Las opciones son infinitas.
+
+Willian recomienda...
+
+> [X-Editable][will-pick]  
+> Una herramienta que permite agregar edición _in situ_ para elementos de front-end.
+
+Agos recomienda...
+
+> [Unsplash][agos-pick]  
+> Fotos de alta resolucion de uso libre. Todas las imagenes estan bajo la licencia Creative Commons Zero por lo cual uno puede usarlas para propositos comerciales libremente.
+
+Santi recomienda...
+
+> [How to undo (almost) anything with Git][santi-pick]  
+> Aprendé cual es la forma correcta de deshacer cosas con Git, sin afectar a otros colaboradores y sin usar `--force`.
+
+Hernán recomienda...
+
+> [is.js][chila-pick]  
+> Is.js es una micro librería (o biblioteca) que ofrece una forma muy sencilla de validar datos.
+
+Lucas recomienda...
+
+> [YourBrowserIs][delucas-pick]  
+> Una herramienta para enviarle a un cliente que tiene un reporte de error, y nos especifique qué entorno está utilizando, sin hacer ningún tipo de esfuerzo
+
+
+[nan-pick]: https://github.com/lelutin/backupninja
+[wacko-pick]: http://facebook.github.io/PathPicker/
+[will-pick]: http://vitalets.github.io/x-editable/
+[agos-pick]: https://unsplash.com/
+[santi-pick]: https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+[chila-pick]: http://arasatasaygin.github.io/is.js/
+[delucas-pick]: http://yourbrowser.is/
