@@ -35,3 +35,6 @@ languages:
   spanish:
     display_name: sp
     image: /images/flags/spanish.png
+
+gems:
+  - jemoji
