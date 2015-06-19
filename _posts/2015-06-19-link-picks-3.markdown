@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v3.0"
+date:  2015-06-19 09:15:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Tercera edición, con unos jugosos enlaces. Aproveche, ¡antes de que siga subiendo el dolar!
+
+Gastón recomienda...
+
+> [git-flow cheatsheet][nan-pick]  
+> En esta página se explica de manera visual y sencilla como instalar y utilizar [git-flow](https://github.com/nvie/gitflow) , que es una herramienta de consola que provee una serie de comandos simples para manejar repositorios segun [el modelo de branches de Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/). Estos pocos y simples comandos generan por detras todas las ramas (master, develop, features, release, hotfixes) y merges que propone el modelo de Driessen.
+
+Joaquín recomienda...
+
+> ["Merge pull request" Considered Harmful][wacko-pick]  
+> Para repos donde hay muchos colaboradores y se quiere mantener un historial mucho más límpio, hacer rebase en vez de merge, recomiendo fuertemente este artículo.
+
+Agos recomienda...
+
+> [GenerateData][agos-pick]  
+> Esta aplicacion es un generador de datos que nos facilita la vida a la hora de hacer testeos. Se establecen los tipos de datos que necesitamos y automaticamente obtenemos un registro de 100 filas. Se puede exportar en CSV, Excel, HTML, JSON, Javascript, PERL, PHP , Ruby, SQL y XML.
+
+Alicia recomienda...
+
+> [Mockflow][alicia-pick]  
+> Mockflow es una aplicación web que te permite hacer wireframes muy facilmente. Tiene varios componentes prediseñados para arrastrar y armar tu composición. Se puede trabajar en equipo, y exporta a html5, jpg y pdf. En su versión gratuita, solo te permite armar 4 páginas.
+
+Lucas recomienda...
+
+> [The Art of Command Line][delucas-pick]  
+> Siempre es bueno saber cómo utilizar la línea de comandos. O, al menos, saber qué tipo de cosas se pueden conseguir mediante los más básicos, para poder combinarlos a gusto. Este repo GitHub tiene una sólida base para dar un buen _primer paso_.
+
+Willian recomienda...
+
+> [JsRender][will-pick]  
+> Un motor de renderización, independiente de jQuery y del DOM
+
+Hernán recomienda...
+
+> [GitGutter para SublimeText][chila-pick]  
+> GitGutter es un plugin para Sublime Text 2/3 que te permite ver los cambios de tu código desde el último commit.
+
+Manuel recomienda...
+
+> [Social Buttons for Bootstrap][manuca-pick]  
+> Son los botones sociales, para usar con Bootstrap :+1:
+
+
+[nan-pick]: http://danielkummer.github.io/git-flow-cheatsheet/
+[wacko-pick]: http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/
+[agos-pick]: http://www.generatedata.com/
+[alicia-pick]: http://www.mockflow.com/
+[delucas-pick]: https://github.com/jlevy/the-art-of-command-line
+[will-pick]: https://github.com/borismoore/jsrender
+[chila-pick]: https://github.com/jisaacks/GitGutter
+[manuca-pick]: http://lipis.github.io/bootstrap-social/
