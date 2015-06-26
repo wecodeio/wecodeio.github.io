@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v4.0"
+date:  2015-06-26 16:35:00
+categories: links
+author: wecode
+language: spanish
+---
+
+No podemos creer que ya llevamos cuatro consecutivas... esto merece una edición XXL ;)
+
+Joaquín recomienda...
+
+> [Fast Autocomplete Search Terms][wacko-pick]  
+> Este artículo nos explica como implementar un Omnibox como los que usan sitios como IMDB, Twitter o Foursquare. Es una especie de campo de búsqueda con esteroides. Sus características principares son:
+> 
+> * Rápido: está basado en Redis
+> * Versátil: permite indexar distintos modelos de datos
+> * Dinámico: con el frontend en Ajax, los resultados son instantáneos
+
+Alicia recomienda...
+
+> [WhatTheFont][alicia-pick]  
+> What the font, es una aplicación que te ayuda a encontrar cuál es la tipografía, a partir de una imagen. Si tu cliente te envía un logo o un folleto en formato de imagen y necesitas editarlo, o si simplemente te gusto una tipografía que viste en algún lugar y querés saber cuál es, con esta aplicación, subis una imagen y te sugiere un listado de tipografías similares.
+
+Nico recomienda...
+
+> [Git Commit History][ceneon-pick]  
+> En un equipo, usen la organización de commits que les sirva, por más que no sea la "elegante" y "profesional"... si les sirve, _go for it_.
+
+Hernán recomienda...
+
+> [Angular Material][chila-pick]  
+> El proyecto Angular Material es una implementación de Material Design sobre Angular.js. Provee una lista de componentes UI basados en la especificación de Material Design.
+
+Lucas recomienda...
+
+> [PurifyCSS][delucas-pick]  
+> Para los que estamos cansados de tener archivos CSS que sólamente crecen... Purify CSS es la solución. Nos permite analizar, purificar y minificar nuestros archivos de hojas de estilos, y ahorrar unos buenos KB al momento de publicar una página/sitio/proyecto web.
+
+Willian recomienda...
+
+> [ColourCo.de][will-pick]  
+> ColourCode permite armar paletas basadas en combinaciones de colores monocromáticos, analógicos, complementarios, etc, con el plus de contar con una interfaz intuitiva y ágil. Es una herramienta muy útil a la hora de decidir qué colores aplicar a nuestro diseño :simple_smile:
+
+Gastón recomienda...
+
+> [Paletton][nan-pick]  
+> Herramienta simple para generar paletas de colores funcionales para nuestros sitios (al menos a mi me sirve mucho porque soy daltónico @_@)
+
+Agos recomienda...
+
+> [MediaElementJs][agos-pick]  
+> Plugin Javascript fácil de usar y de personalizar para reproducción de video y audio en HTML5 con fallbacks para los navegadores mas viejos.
+
+Cristian recomienda...
+
+> [TCP y la barrera más baja de performance en la WEB][cris-pick]  
+> Cuenta desde como nació Internet, la red de redes, así como también como evoluciona la misma. También describe el protocolo TCP, "slow start", el mecanismo que evita congestiones masivas de los routers que forman la red y como se comunican estos routers en la actualidad.  
+> Para los fanáticos de la historia de la informática, una charla imperdible!
+
+Santi recomienda...
+
+> [UI Patterns][santi-pick]  
+> Un completo catálogo de muchos patrones de diseño de interfaces de usuario.
+
+Manuel recomienda...
+
+> [NativeScript][manuca-pick]  
+> Hablabamos de apps Phonegap, etc. encontré esto, que es un frankenstein pero puede ser interesante :)
+
+Daniel recomienda...
+
+> [Userlytics][edanps-pick]  
+> "Los test de usabilidad remotos son como test tradicionales, con una diferencia clave: el participante y el facilitador se encuentran en dos locaciones diferentes", dice Amy Schade, del Nielsen Norman Group. Una herramienta (de las muchas que hay) que permite hacer remote usability testing es Userlitycs. Incluye la posibilidad de grabar audio, webcam y pantalla, definir tareas y preguntas para cada test, hacer prototype testing y más. Otras herramientas, como [http://www.userzoom.es](http://www.userzoom.es) adicionan la capacidad de hacer online card sorting y reverse card sorting.
+
+Manu recomienda...
+
+> [HuayraLinux][manu-pick]  
+> Un asistente para crear la estructura inicial de proyectos, inspirado en yeoman y ember-cli desarrollado para el proyecto Huayra Linux
+
+[manu-pick]: https://github.com/HuayraLinux/huayra-mu
+[edanps-pick]: http://www.userlytics.com
+[delucas-pick]: https://github.com/purifycss/purifycss
+[wacko-pick]: http://josephndungu.com/tutorials/fast-autocomplete-search-terms-rails
+[alicia-pick]: https://www.myfonts.com/WhatTheFont/
+[ceneon-pick]: http://zachholman.com/posts/git-commit-history/
+[chila-pick]: https://material.angularjs.org
+[will-pick]: http://colourco.de/
+[nan-pick]: http://paletton.com/
+[agos-pick]: http://mediaelementjs.com/
+[cris-pick]: https://www.youtube.com/watch?v=C8orjQLacTo
+[santi-pick]: http://ui-patterns.com/patterns
+[manuca-pick]: https://www.nativescript.org/
