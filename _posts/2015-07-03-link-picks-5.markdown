@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v5.0"
+date:  2015-07-03 16:30:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Algunos *wecoders* nos sorprenden con los links que pasan... ¡miren el especial de la semana!
+
+Joaquín recomienda...
+
+> [How to change the process name of your Ruby script as shown by `top` and `ps`][wacko-pick]  
+> Cuando uno está corriendo muchos procesos de ruby simultaneamente, identificarlos con los comandos ps o top puede no ser tan sencillo. Sobretodo cuando el programa que corremos tiene innumerable cantidad de parámetros. Este truco nos dice como hacer para renombrar nuestros procesos por algo mucho más amigable y útil.
+
+Agos recomienda...
+
+> [Enquire.js][agos-pick]  
+> Libreria para utilizar el poder de las media queries de css en tu codigo javascript adaptando la ejecucion de tu script según el viewport.
+
+Nico recomienda...
+
+> [7 future web design trends][ceneon-pick]  
+> ¡Tendencias! :)
+
+Cristian recomienda...
+
+> [Clojure made simple][cris-pick]  
+> Dejo esta charla donde Rich Hickey pitchea clojure a programadores java. Te compra desde el minuto 1: trata sobre los problemas de modelo de objetos, toda la complejidad accidental que trae y sobre todo como manipulando simples estructuras de datos podemos escribir software más sencillo
+
+Willian recomienda...
+
+> [Material Theme][will-pick]  
+> Un Theme pensado para los amantes del editor Sublime Text (disponible para la versión 3) Incorpora un diseño standard muy interesante que permite visualizar mejor el texto/código y además permite configurar ciertos aspectos como espacios entre líneas, tipografía, estilos de letra, etc.
+
+Alicia recomienda...
+
+> [Fotor][alicia-pick]  
+> Fotor es una aplicacion en la que podés editar imágenes y compartirlas directamente. 
+Es muy intuitiva y simple de usar.
+
+Gastón recomienda...
+
+> [Plantilla de CV-web][nan-pick]  
+> Plantilla para curriculim web. Maquetada con bootstrap responsive. Buena para mostrar nuestros proyectos y habilidades de manera personalizada. También como portal a todos nuestros sitios laborales github, linkedin, etc.
+
+Santi recomienda...
+
+> [Git Visual][santi-pick]  
+> Una herramienta para entender visualmente y con animaciones que pasa internamente con los comandos de Git.
+
+Lucas recomienda...
+
+> [e.ggtimer][delucas-pick]  
+> A veces necesitamos tomar tiempos, o hacer cosas en un bloque determinado. O tenemos que controlar el hervor de alguna preparación. El uso depende de ustedes, pero la herramienta, es esta. Miren cómo podemos [controlar 5 minutos](http://e.ggtimer.com/5minutes).
+
+
+[wacko-pick]: http://blog.honeybadger.io/how-to-change-the-process-name-in-ruby-for-top-and-ps
+[agos-pick]: http://wicky.nillia.ms/enquire.js/
+[ceneon-pick]: https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355
+[cris-pick]: https://www.youtube.com/watch?v=VSdnJDO-xdg
+[will-pick]: http://equinusocio.github.io/material-theme/
+[alicia-pick]: http://www.fotor.com/
+[nan-pick]: http://themes.3rdwavemedia.com/demo/developer/
+[santi-pick]: http://gitvisual.com/
+[delucas-pick]: http://e.ggtimer.com
