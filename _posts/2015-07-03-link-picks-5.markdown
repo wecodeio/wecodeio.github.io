@@ -55,6 +55,10 @@ Lucas recomienda...
 > [e.ggtimer][delucas-pick]  
 > A veces necesitamos tomar tiempos, o hacer cosas en un bloque determinado. O tenemos que controlar el hervor de alguna preparación. El uso depende de ustedes, pero la herramienta, es esta. Miren cómo podemos [controlar 5 minutos](http://e.ggtimer.com/5minutes).
 
+Hernán recomienda...
+
+> [Intro.js][chila-pick]  
+> Intro.js es un plugin escrito en JavaScript que te permite armar una guía paso a paso de las características de tu sitio web para los nuevos visitantes.
 
 [wacko-pick]: http://blog.honeybadger.io/how-to-change-the-process-name-in-ruby-for-top-and-ps
 [agos-pick]: http://wicky.nillia.ms/enquire.js/
@@ -65,3 +69,4 @@ Lucas recomienda...
 [nan-pick]: http://themes.3rdwavemedia.com/demo/developer/
 [santi-pick]: http://gitvisual.com/
 [delucas-pick]: http://e.ggtimer.com
+[chila-pick]: https://usablica.github.io/intro.js/
