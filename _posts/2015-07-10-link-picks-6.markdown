@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v6.0"
+date:  2015-07-10 14:45:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Esta semana pasó rápido, hubo feriados... y los *wecoders* no se cansaron de compartir cosas. ¿Quieren ver?  
+Hasta un jueguito hay en el medio de los links... :speak_no_evil:
+
+Nico recomienda...
+
+> [DinoPass][ceneon-pick]  
+> Para crear passwords fáciles de recordar :smile:
+
+Hernán recomienda...
+
+> [REQ|RES][chila-pick]  
+> Herramienta que brinda una API REST preparada para responder peticiones AJAX.
+
+Santi recomienda...
+
+> [Small Modules: Tales from a Serial Module Author][tiagox-pick]  
+> Una forma diferente de organizar nuestro código, con foco en la colaboración y en que _los componentes hagan una cosa y que la hagan bien_.
+
+Manu recomienda...
+
+> [snow][manuca-pick]  
+> snow es una red virtual de capa 3 que abstrae las redes subyacentes y permite utilizar claves públicas en lugar de direcciones IP
+
+Gastón recomienda...
+
+> [Learn CSS Layout][nan-pick]  
+> En esta web se explican algunos conpcetos básicos de css y css3 que no siempre estan claros. Como los distintos tipos de display, de position, el box-sizing, media queries, Flexbox, etc.  Todo explicado de manera gráfica y sencilla.
+
+Joaquín recomienda...
+
+> [ERB vs HAML vs SLIM, por Randy Schifflin][wacko-pick]  
+> Esta semana discutimos sobre motores de interpretación de HTML... y aquí una linda comparativa
+
+Agostina recomienda...
+
+> [Clusterize.js][agos-pick]  
+> Libreria que nos permite mostrar gran cantidad de datos en tablas html evitandonos problemas de performance.
+
+Lucas recomienda...
+
+> [Arrow Hero][delucas-pick]  
+> Recién salido del Hackers Newsletter, este juego es super adictivo. Ideal para un viernes :wink:
+
+
+[ceneon-pick]: http://www.dinopass.com/
+[chila-pick]: http://reqr.es/
+[tiagox-pick]: http://dailyjs.com/2015/07/02/small-modules-complexity-over-size/
+[manuca-pick]: https://github.com/zrm/snow
+[nan-pick]: http://learnlayout.com/
+[wacko-pick]: https://speakerdeck.com/lvrug/erb-vs-haml-vs-slim-randy-schifflin
+[agos-pick]: http://nexts.github.io/Clusterize.js/
+[delucas-pick]: http://acelisweaven.github.io/arrow-hero/
