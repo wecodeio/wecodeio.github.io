@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v7.0"
+date:  2015-07-17 10:40:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Semana de clásicos en **wecode**, nos la pasamos compartiendo herramientas muy útiles e instauradas. Salvo, claro... cierta *wecoder* que compartió una plataforma para hacer jueguitos. Ojo que pueden perder toda la tarde allí... :see_no_evil:
+
+Hernán recomienda...
+
+> [11 Best jQuery Charting Libraries][chila-pick]  
+> Lista de 11 bibliotecas jQuery para el manejo de gráficos estadísticos.
+
+Nico recomienda...
+
+> [mina-ftp][ceneon-pick]  
+> Para hacer deploy de apps más anticuadas, donde sólo hay un FTP.
+
+Lucas recomienda...
+
+> [pxtoem][delucas-pick]  
+> Me encontré utilizando mucho esta herramienta últimamente. Simple y efectiva forma de convertir unidades de medida en la web.
+
+Agos recomienda...
+
+> [Construct2][agos-pick]  
+> Software para la creacion de videojuegos en HTML5 de manera facil y rapida. La interfaz es grafica pero existe la posibilidad de modificar el codigo manualmente. El videojuego creado se puede exportar para diferentes plataformas como Windows Phone, Chrome Web Store o Phone Gap.
+
+Gastón recomienda...
+
+> [CSS3 Patterns Gallery][nan-pick]  
+> Galeria de patrones hechos 100% con CSS3, por ejemplo para usar de background en nuestras páginas. El sitio te permite tocar el css y ver como va quedando el resultado.
+
+Alicia recomienda...
+
+> [NameMesh][alicia-pick]  
+> Es una herramienta que te ayuda a pensar nombres de dominios. Ingresando una palabra, te muestra los dominios disponibles, similares a la palabra que acabas de ingresar, te sugiere combinaciones de palabras convenientes para el seo, sugiere nombres de dominios creativos, cortos, graciosos.
+
+Willian recomienda...
+
+> [Codepen][will-pick]  
+> Codepen es una muy buena herramienta online, diseñada para que los frontenders puedan testear código html, css y javascript en tiempo real y ver el resultado en el mismo lugar, así como compartir sus más creaciones con toda la comunidad. Asimismo Codepen cuenta con una gran cantidad de trabajos compartidos por sus usuarios, los cuales están a disposición del que desee usarlos.
+
+Santi recomienda...
+
+> [PHP the right way][tiagox-pick]  
+> Un excelente compendio de buenas prácticas que todo desarrollador que trabaje con PHP debería conocer (y usar).
+
+[chila-pick]: http://www.sitepoint.com/11-best-jquery-charting-libraries/
+[ceneon-pick]: https://github.com/stas/mina-ftp
+[delucas-pick]: http://pxtoem.com/
+[agos-pick]: https://www.scirra.com/construct2
+[nan-pick]: http://lea.verou.me/css3patterns/
+[alicia-pick]: http://www.namemesh.com/
+[will-pick]: http://codepen.io/
+[tiagox-pick]: http://www.phptherightway.com/
