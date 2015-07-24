@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Edición bizarra de Enlaces Seleccionados - v8.0"
+date:  2015-07-24 11:10:00
+categories: links bizarro
+author: wecode
+language: spanish
+---
+
+Todo empezó como una idea diferente. _¿Y si ponemos links bizarros?_  
+Y quedó esto. Disfruten al compartir y usar a gusto... sigue siendo gratuito y ecológico :hear_no_evil:
+
+<img src="/images/posts/party.gif" alt="Party, via giphy.com" title="Party, via giphy.com" class="full"/>
+
+Alicia recomienda...
+
+> [The Million Dollar Homepage][alicia-pick]  
+> Parte de la prehistoria de Internet... bizarro hasta que notás que levantó el millón de dólares con esa idea.
+
+Nico recomienda...
+
+> [YTMND - Batman: ualuealuealeuale][ceneon1-pick]  
+> Los bizarros no se explican... ¡se sienten!
+
+y también...
+
+> [Hey! Ho!][ceneon2-pick]  
+> No dejes que el navegador descanse...
+
+Gastón recomienda...
+
+> [Jurassic Systems][nan-pick]  
+> Para los fanáticos de Jurassic Park.
+
+Agos recomienda...
+
+> [Instant No Button!][agos1-pick]  
+> Úsese en la situación correcta. Siempre.
+
+y también...
+
+> [The Salmon of Capistrano][agos2-pick]  
+> Culto al salmón
+
+Willian recomienda...
+
+> [Staggering Beauty][will1-pick]  
+> A mover la lombriz...
+
+y también...
+
+> [The finger, deal with it][will2-pick]  
+> No cierres esta pestaña...
+
+y no se cansa de compartir...
+
+> [sanger.dk][will3-pick]  
+> Limpiemos el monitor del lado de adentro
+
+Santi recomienda...
+
+> [The Useless Web][tiagox-pick]  
+> Una sorpresa nueva cada click
+
+Lucas recomienda...
+
+> [ZOMBO][delucas-pick]  
+> En Zombo.com podés hacer lo que quieras... el único límite sos vos mismo.
+
+Hernán recomienda...
+
+> [Neave.TV][chila1-pick]  
+> El zapping en su máxima expresión.
+
+Y no pudimos dejar de agregar algo técnico :smile:
+
+Hernán recomienda...
+
+> [PHP: The good parts][chila2-pick]  
+> Brutalmente honesto.
+
+Nico recomienda...
+
+> [Blink][ceneon3-pick]  
+> Para los que honramos el culto al extinto blink...
+
+Cristian recomienda...
+
+> [12 Little-Known CSS Facts][cristian1-pick]  
+> Porque a veces lo técnico se vuelve bizarro...
+
+Cristian recomienda...
+
+> [12 Little-Known CSS Facts (The Sequel)][cristian2-pick]  
+> ... muy bizarro.
+
+
+[alicia-pick]: http://www.milliondollarhomepage.com/
+[ceneon1-pick]: http://ualuealuealeuale.ytmnd.com/
+[ceneon2-pick]: http://heeeeeeeey.com/
+[nan-pick]: https://jurassicsystems.com/
+[agos1-pick]: http://www.nooooooooooooooo.com/
+[agos2-pick]: http://salmonofcapistrano.com/
+[will1-pick]: http://www.staggeringbeauty.com/
+[will2-pick]: http://thatsthefinger.com/
+[will3-pick]: http://www.sanger.dk/
+[tiagox-pick]: http://www.theuselessweb.com/
+[delucas-pick]: http://www.zombo.com/
+[chila1-pick]: http://neave.tv/
+[chila2-pick]: http://phpthegoodparts.tumblr.com/
+[ceneon3-pick]: http://fredericiana.com/2012/11/04/html5-blink-tag/
+[cristian1-pick]: http://www.sitepoint.com/12-little-known-css-facts/
+[cristian2-pick]: http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
