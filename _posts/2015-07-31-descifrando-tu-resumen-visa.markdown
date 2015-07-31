@@ -25,7 +25,7 @@ Si quisiéramos ir un paso más allá, habría que moverlo a la carpeta de Dropb
     #!/bin/bash
 
     INPUT=`ls -lt | grep pdf | head -n 1 | awk '{print $9}'`
-    OUTPUT=VISA-`date +"%Y-%m-%d"`
+    OUTPUT=VISA-`date +"%Y-%m-%d"`.pdf
     echo $INPUT
     echo $OUTPUT
     qpdf --password=$1 --decrypt `pwd`/$INPUT $OUTPUT
