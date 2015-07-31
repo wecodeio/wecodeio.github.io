@@ -12,20 +12,20 @@ Hace unos meses [Joaquín][wacko] me mostró lo que él hace con esos archivos (
 
 Yo lo voy a hacer por pasos. Por empezar, necesitamos instalar una herramienta que pueda hacer el descifrado del archivo, y `qpdf` resultó muy útil en Linux. El comando quedaría algo así:
 
-    qpdf --password=tu_password --decrypt /full/path/to/file/0451533920.02.23-07-15.pdf VISA-23-07-15.pdf
+    qpdf --password=tu_password --decrypt /full/path/to/file/0451533920.02.23-07-15.pdf VISA-2015-07-23.pdf
 
-Y eso genera, en este caso, el archivo `VISA-23-07-15.pdf`. Este último puede accederse libremente :smile:
+Y eso genera, en este caso, el archivo `VISA-2015-07-23.pdf`. Este último puede accederse libremente :smile:
 
 Si quisiéramos ir un paso más allá, habría que moverlo a la carpeta de Dropbox. Una simple línea:
 
-    mv VISA-23-07-15.pdf /full/path/to/Dropbox/VISA/VISA-23-07-15.pdf
+    mv VISA-2015-07-23.pdf /full/path/to/Dropbox/VISA/VISA-2015-07-23.pdf
 
 ¡Y listo!... ¿listo? Nah, esto fue muy simple. Vamos a hacer algo más: no tipear el comando **cada vez** reemplazando el nombre del archivo. Esto sería así:
 
     #!/bin/bash
 
     INPUT=`ls -lt | grep pdf | head -n 1 | awk '{print $9}'`
-    OUTPUT=VISA-`date +"%Y%m%d"`
+    OUTPUT=VISA-`date +"%Y-%m-%d"`
     echo $INPUT
     echo $OUTPUT
     qpdf --password=$1 --decrypt `pwd`/$INPUT $OUTPUT
