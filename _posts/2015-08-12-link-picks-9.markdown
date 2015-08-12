@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v9.0"
+date:  2015-08-07 10:30:00
+categories: links
+author: wecode
+language: spanish
+---
+
+Después de la semana **Bizarra**, volvimos con los clásicos links que los *wecoders* estuvimos compartiendo durante la semana.
+¡Pasen y vean!
+
+Joaquín recomienda...
+
+> [Machine Learning][wako-pick]
+> Querés saber de que trata Machine Learning pero todavía no sabés bien que que significan términos como Supervised Learning, Regression, o Decision Tree? Empecemos por entender la terminología básica con una serie de explicaciones simples!
+
+Gastón recomienda...
+
+> [vim-adventures][nan-pick]
+> VIM es uno de los editores de texto más populares en el mundo Linux, si bien es muy veloz y poderoso no es fácil de usar. Con VIM Adventures podes aprender lo básico jugando.
+
+Agos recomienda...
+
+> [quantityqueries][agos-pick]
+> Ayudante para la creación de reglas CSS que permitan aplicar estilos a los elementos basados en su cantidad. 
+
+Hernán recomienda...
+
+> [treev][chila-pick]
+> treev es un plugin de Chrome que te permite buscar dentro de Drive, Dropbox, Trello y Box y poder encontrar lo que necesitas de una forma más rápida.
+
+Santi recomienda...
+
+> [git-cheatsheet][tiagox-pick]
+> Una guía interactiva de comandos de Git, para saber que se puede hacer dependiendo uno se encuentre parado. Ideal para encontrar comandos útiles.
+
+Lucas recomienda...
+
+> [ruby-warrior][delucas-pick]  
+> ¿Querés aprender las bases de Ruby? ¿Querés divertirte haciéndolo? Aquí está todo lo que necesitás... :stuck_out_tongue:
+
+Alicia recomienda...
+
+> [ideone][alicia-pick]
+> Editor online que puede compilar y debugear en diferentes lenguajes como java, groovy, php, mysql, ruby, c++, etc.
+
+[agos-pick]: http://quantityqueries.com
+[nan-pick]: http://vim-adventures.com/
+[wako-pick]: http://blog.aylien.com/post/121281850733/10-machine-learning-terms-explained-in-simple
+[chila-pick]: http://treev.co/
+[tiagox-pick]: http://ndpsoftware.com/git-cheatsheet.html
+[delucas-pick]: https://www.bloc.io/ruby-warrior/#/
+[alicia-pick]: https://ideone.com/
