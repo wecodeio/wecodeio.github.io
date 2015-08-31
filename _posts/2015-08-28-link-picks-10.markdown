@@ -39,9 +39,15 @@ Hernán recomienda...
 > [getmdl][chila-pick]
 > Te permite realizar sitios con estilo Material Design dándote las herramientas al igual que Bootstrap.
 
+Joaquín recomienda...
+
+> [TodoMVC][wako-pick]
+> TodoMVC - Helping you select an MV* framework // Backbone, Ember, AngularJS... cuál elegir? cómo compararlos? por dónde empezar? // Este proyecto propone la misma aplicación, un simple TODO List, implementada con los distintos frameworks que andan dando vuelta actualmente
+
 [nan-pick]: https://github.com/codrops/CreativeButtons
 [delucas-pick]: http://colintoh.com/blog/display-table-anti-hero
 [will-pick]: http://fabien-d.github.io/alertify.js
 [nico-pick]: http://deathtobullshit.com/
 [agos-pick]: http://freqdec.github.io/slabText/
 [chila-pick]: http://www.getmdl.io/
+[wako-pick]: http://todomvc.com/
