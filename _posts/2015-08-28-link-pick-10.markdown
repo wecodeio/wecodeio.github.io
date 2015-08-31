@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Enlaces Seleccionados - v10.0"
+date:  2015-08-28 15:20:00
+categories: links
+author: wecode
+language: spanish
+---
+
+¡Llegamos a la décima entrega de links! Woo Hoo! \o/
+
+Gastón recomienda...
+
+> [CreativeButtons][nan-pick]
+> Estilos modernos para botones, fáciles de implemente y de customizar.
+
+Lucas recomienda...
+
+> [display-table-anti-hero][delucas-pick]
+> Un poco de redencion para este outcast de los display...
+
+Willian recomienda...
+
+> [alertify.js][will-pick]
+> Alertify es una pequeña biblioteca para mostrar las ventanas emergentes con un diseño acorde al estilo que se le quiera dar. Es 100% personalizable desde CSS y es independiente de otras librerías, aunque se lleva muy bien con la mayoría de ellas :)
+
+Nicolás recomienda...
+
+> [deathtobullshit][nico-pick]
+> Campaña para que los sitios web dejen de tener tanta "porquería".
+
+Agos recomienda...
+
+> [slabText][agos-pick]
+> Crea encabezados responsive y enoooormes.
+
+Hernán recomienda...
+
+> [getmdl][chila-pick]
+> Te permite realizar sitios con estilo Material Design dándote la herramientas al igual que Bootstrap.
+
+[nan-pick]: https://github.com/codrops/CreativeButtons
+[delucas-pick]: http://colintoh.com/blog/display-table-anti-hero
+[will-pick]: http://fabien-d.github.io/alertify.js
+[nico-pick]: http://deathtobullshit.com/
+[agos-pick]: http://freqdec.github.io/slabText/
+[chila-pick]: http://www.getmdl.io/
