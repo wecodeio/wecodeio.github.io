@@ -37,7 +37,7 @@ Agos recomienda...
 Hernán recomienda...
 
 > [getmdl][chila-pick]
-> Te permite realizar sitios con estilo Material Design dándote la herramientas al igual que Bootstrap.
+> Te permite realizar sitios con estilo Material Design dándote las herramientas al igual que Bootstrap.
 
 [nan-pick]: https://github.com/codrops/CreativeButtons
 [delucas-pick]: http://colintoh.com/blog/display-table-anti-hero
