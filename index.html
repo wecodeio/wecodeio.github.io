@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Post</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -13,7 +13,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <img class="language flag" src="{{language.image}}" alt="{{language.display_name}}"/>
+          <!--<img class="language flag" src="{{language.image}}" alt="{{language.display_name}}"/>-->
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>

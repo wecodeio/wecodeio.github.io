@@ -3,13 +3,25 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
-
+body header a, a.icon--footer {
+      transition: all 0.325s;
+      -moz-transition: all 0.325s;
+      -webkit-transition: all 0.325s;
+      -o-transition: all 0.325s; }
+body header a#logo{
+      background: url(../images/wecode.svg) no-repeat center center;
+      display: inline-block;
+      height: 35px;
+      margin: 10px auto;
+      text-indent: -30000px;
+      width: 245px; }
+      body header a#logo:hover{
+        opacity: 0.725; }
 .site-title {
     font-size: 26px;
     line-height: 56px;
@@ -19,7 +31,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $text-color;
     }
 }
 
@@ -92,8 +104,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/2 0;
+    background: $brand-color;
+    border-bottom: 4px solid #000;
 }
 
 .footer-heading {
@@ -104,9 +117,15 @@
 .contact-list,
 .social-media-list {
     list-style: none;
-    margin-left: 0;
+    text-align: center;
+    margin:auto;
 }
-
+.contact-list li{
+    background: $background-second-color;
+    color:#fff;
+    display:inline;
+    padding:$spacing-unit/3;
+}
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -123,18 +142,52 @@
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+    
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
+    
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    
 }
-
+.footer-col-2 a{
+    color:#fff;
+}
+.clearfix{
+    clear:both;
+}
+.description{
+    background: $brand-second-color;
+    color:$text-color;
+    text-align:center;
+    width: 90%;
+    float:right;
+}
+a.icon--footer{
+    width: $spacing-unit;
+    height: $spacing-unit;
+    display: inline-block;
+    float: left;
+    margin-left:$spacing-unit/3;
+}
+a.icon--footer:hover{
+    opacity: 0.70;
+}
+a.icon--github{
+    background: url(../images/redes/github.svg) no-repeat center center;
+}
+a.icon--twitter{
+    background: url(../images/redes/twitter.svg) no-repeat center center;
+}
+a.icon--facebook{
+    background: url(../images/redes/facebook.svg) no-repeat center center;
+}
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
@@ -146,11 +199,16 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+    .description{
+        float: none;
+        margin:auto;
+    }
 }
 
 @include media-query($on-palm) {
     .footer-col {
         float: none;
+        text-align: center;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
@@ -163,10 +221,14 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background: $background-second-color;
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 30px;
+    display: inline;
+    border-top: 4px solid $brand-color;
+    
 }
 
 .post-list {
@@ -234,3 +296,30 @@
         }
     }
 }
+    ul.post-list{
+        margin-left: 10%;
+    }
+    ul.post-list li {
+        box-shadow: 1px 0 0 #6d6e71 inset;
+        color: #61c2ac;
+        display: inline-block;
+        padding: 2% 0 0% 4%;
+        position: relative;
+        vertical-align: top;
+        margin-bottom: 0;
+    }
+    body ul.post-list  li:before {
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -moz-transform: translateY(-50%);
+      -o-transform: translateY(-50%);
+      transform: translateY(-50%);
+      background: #141414;
+      border-radius: 50%;
+      border: 2px solid #6d6e71;
+      content: "";
+      display: block;
+      height: 8px;
+      left: -6px;
+      position: absolute;
+      width: 8px; }
