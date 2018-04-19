@@ -95,4 +95,8 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  jekyll
   jemoji
+
+BUNDLED WITH
+   1.10.6
