@@ -12,7 +12,7 @@ No dejo de alegrarme cuando creo que entiendo un tema y de repente aparece una p
 ## Contexto
 
 Esta vez viene de la mano de un pequeño experimento que hacemos con nuestros alumnos de Programación Avanzada, en la Universidad Nacional de La Matanza. La clase correspondía a métodos clásicos de ordenamiento, y estábamos analizando el rendimiento de cada uno de ellos.
-La forma más simple de hacerlo es generar _arrays_ de sucesivamente más elementos, y tomar tiempos de ejecución. Las tres configuraciones clásicas son las de _array_ aleatorio, _array_ ordenado y _array_ invertido.
+La forma más simple de hacerlo es generar _arrays_ sucesivamente más grandes, y tomar tiempos de ejecución. Las tres configuraciones clásicas son las de _array_ aleatorio, _array_ ordenado y _array_ invertido.
 
 ## El algoritmo
 
@@ -64,7 +64,7 @@ Sin embargo, los tiempos son los que llevan la contra:
 
 ## El concepto nuevo (para mí)
 
-No les voy a mentir: cuando sucedió esto, yo no estaba en el aula cuando esto sucedió. Pero me enteré por el grupo de docentes, y quise investigar. Un estudiante nombró el concepto, y eso diparó las búsquedas: el _[branch prediction unit](https://dzone.com/articles/branch-prediction-in-java)_.
+No les voy a mentir: cuando sucedió esto, yo no estaba en el aula. Pero me enteré por el grupo de docentes, y quise investigar. Un estudiante nombró el concepto, y eso diparó las búsquedas: el _[branch prediction unit](https://dzone.com/articles/branch-prediction-in-java)_.
 
 #### ¿Qué es la unidad de predicción de saltos _(branch prediction unit)_? 
 
