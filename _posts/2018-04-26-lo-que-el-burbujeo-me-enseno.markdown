@@ -64,7 +64,7 @@ Sin embargo, los tiempos son los que llevan la contra:
 
 ## El concepto nuevo (para mí)
 
-No les voy a mentir: cuando sucedió esto, yo no estaba en el aula cuando esto sucedió. Pero me enteré por el grupo de docentes, y quise investigar. Un estudiante nombró el concepto, y eso diparó las búsquedas: el _branch prediction unit_.
+No les voy a mentir: cuando sucedió esto, yo no estaba en el aula cuando esto sucedió. Pero me enteré por el grupo de docentes, y quise investigar. Un estudiante nombró el concepto, y eso diparó las búsquedas: el _[branch prediction unit](https://dzone.com/articles/branch-prediction-in-java)_.
 
 #### ¿Qué es la unidad de predicción de saltos _(branch prediction unit)_? 
 
