@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lo que el burbujeo me enseñó"
-date:  2018-04-26 12:00:00
+date:  2018-04-26 11:00:00
 categories: investigacion java
 author: delucas
 language: spanish
